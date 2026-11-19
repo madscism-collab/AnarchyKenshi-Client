@@ -1,0 +1,46 @@
+KENSHI MULTIPLAYER (AnarchyKenshi) - PRIVACY NOTICE
+Version 1.2, 19 November 2026
+
+WHO
+Anarchy, the author of the Mod. Contact: our Discord,
+https://discord.gg/33TGnXAxBQ
+
+WHAT WE PROCESS
+When you play online: your account name and login data (your password
+itself never leaves your PC), your characters and what you do in the game,
+chat, your IP address, and technical information about your device and your
+game.
+The launcher checks for updates online, and the server browser contacts the
+listed servers; like any website, they see your IP address.
+
+WHY
+To run the online game, keep your characters and fix bugs, and - in our
+legitimate interest and that of all players - to keep the game free of
+cheating and abuse. Nothing is sold or used for advertising.
+
+SERVERS
+Servers may be located in any country. Servers run by other people follow
+their own rules, not this notice.
+
+HOW LONG
+Accounts and characters: until you ask us to delete them or the world is
+wiped. Logs: only as long as needed for these purposes. Ban data: as long
+as the ban lasts.
+
+YOUR RIGHTS
+You can ask what we keep about you, ask us to correct it or delete your
+account, or object to how we use it - write to us on Discord. If you live in
+the EU or UK, you can also complain to your data protection authority.
+Deleting an account does not lift a ban.
+
+DISCORD
+Our Discord server follows Discord's own privacy policy. Our bot reads
+messages in our channels to fight spam and scams. In some channels it
+replies with the help of an AI service, which then receives that channel's
+recent messages.
+
+Don't share anything sensitive in chat.
+
+CHANGES
+We may update this notice. The current version is always at
+https://github.com/madscism-collab/AnarchyKenshi-Client/blob/main/PRIVACY.txt
