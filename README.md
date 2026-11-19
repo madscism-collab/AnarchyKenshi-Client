@@ -19,3 +19,5 @@ Each release contains:
 Get the mod: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3808257125)
 
 Community: [Discord](https://discord.gg/33TGnXAxBQ)
+
+License: [LICENSE.txt](LICENSE.txt) · Privacy: [PRIVACY.txt](PRIVACY.txt)
